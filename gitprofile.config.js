@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: '', //TODO: Your GitHub org/user name. (Required)
+    username: 'skibidislythe3rd', //TODO: Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 4, // How many projects to display.
     exclude: {
@@ -11,17 +11,17 @@ const config = {
     },
   },
   scratch: {
-    username: '', //TODO: Your Scratch username. (Required)
+    username: 'hhsyl', //TODO: Your Scratch username. (Required)
     limit: 8, // How many projects to display; maximum 20
     sortBy: 'date', // date | views | remixes
-    corsProxy: 'https://scratchapicors-8nbi5t6td-theyoungmaker.vercel.app/', //TODO: Enter your CORS Proxy here
+    corsProxy: 'https://scratchapicors-git-main-skibidithesly3rds-projects.vercel.app/', //TODO: Enter your CORS Proxy here
   },
   social: {
     //TODO: Add in Socials
     linkedin: '',
     facebook: '',
     instagram: '',
-    tiktok: '',
+    tiktok: 'syl_thinmints',
     email: '',
     website: '',
     // dev: '',
@@ -38,12 +38,12 @@ const config = {
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
-  },
+  },  
   skills: [
-    'Scratch',
-    'Microbit',
-    'JavaScript',
-    'Design Thinking',
+    'SKIBIDI',
+    'GOT FANUM TAXED',
+    'GRIMACESHAKE',
+    'GOT REJECTED 6 TIMES',
     'Python',
     'Git',
     'CSS',
@@ -132,7 +132,7 @@ const config = {
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
     //TODO: Change to false if you want to have the option to see switch
-    disableSwitch: true,
+    disableSwitch: false,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
