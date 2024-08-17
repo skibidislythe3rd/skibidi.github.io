@@ -40,10 +40,6 @@ const config = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },  
   skills: [
-    'SKIBIDI',
-    'GOT FANUM TAXED',
-    'GRIMACESHAKE',
-    'GOT REJECTED 6 TIMES',
     'Python',
     'Git',
     'CSS',
